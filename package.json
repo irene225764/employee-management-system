@@ -1,0 +1,13 @@
+{
+  "name": "employee-app-backend",
+  "version": "1.0.0",
+  "description": "Employee App backend integration assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  }
+}
